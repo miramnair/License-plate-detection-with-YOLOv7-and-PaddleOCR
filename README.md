@@ -1,0 +1,1 @@
+# License-plate-detection-with-YOLOv7-and-PaddleOCR
